@@ -1,0 +1,122 @@
+/*Entire Doc*/
+
+div.zoomed { 
+    zoom: -7.5; 
+    -moz-transform: scale(3); 
+    -moz-transform-origin: 0 0;
+} 
+
+/*TABSSS*/
+/*Big title in top left corner*/
+.navbar-brand  {
+  font-size: 32pt;
+}
+
+/*Tab title size*/
+.navbar-nav>li>a {
+ font-size: 20pt;
+}
+
+/*OVERVIEW PAGE*/
+/*Historgram title+other chart titles*/
+.chart-title {
+  font-size: 28pt ;
+}
+
+.value-box {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white
+}
+
+.value-box .caption {
+  font-size: 18px;
+}
+
+.leaflet-container {
+  font-size: 16.5px;
+}
+
+
+/*TOTAL PHOSPHORUS TAB*/
+/*Text in TP tab*/
+p {
+  font-size: 20pt ;
+}
+
+/*Chart notes for TP histogram*/
+.chart-wrapper .chart-notes {
+  font-size: 16pt;
+  color: #333;
+}
+
+/*Text below observation headers*/
+ ol, ul {
+   font-size: 20pt;
+ }
+
+/* Chart titles*/
+.chart-title {
+  font-weight: bold;
+}
+
+/* targetting the info sections */
+
+
+/*targetting the takeaway sections*/
+
+
+
+.takeawayfig3 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig4 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig5 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig6 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig7 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig8 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig9 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig10 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
+
+.takeawayfig11 {
+  background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+  border-color: #395c82;
+  color: white;
+}
